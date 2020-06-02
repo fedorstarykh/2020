@@ -1,0 +1,11 @@
+﻿  graphics.cpp
+c:\users\fedor\desktop\graphics\graphics\graphics.cpp(40): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\fedor\desktop\graphics\graphics\graphics.cpp(44): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\fedor\desktop\graphics\graphics\graphics.cpp(144): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\fedor\desktop\graphics\graphics\graphics.cpp(161): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\fedor\desktop\graphics\graphics\graphics.cpp(213): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\fedor\desktop\graphics\graphics\graphics.cpp(212): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\fedor\desktop\graphics\graphics\graphics.cpp(215): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\fedor\desktop\graphics\graphics\graphics.cpp(214): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\fedor\desktop\graphics\graphics\graphics.cpp(415): warning C4838: преобразование из "char" в "TCHAR" требует сужающего преобразования
+  graphics.vcxproj -> C:\Users\Fedor\Desktop\graphics\Debug\graphics.exe
