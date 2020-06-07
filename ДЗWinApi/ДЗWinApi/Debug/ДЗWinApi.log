@@ -1,0 +1,32 @@
+﻿  ДЗWinApi.cpp
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(60): warning C4305: +=: усечение из "double" в "float"
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(61): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(62): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(64): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(65): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(67): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(68): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(83): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(84): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(87): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(88): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(92): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(93): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(94): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(95): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(103): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(104): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(105): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(113): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(114): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(115): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(116): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(123): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(124): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(125): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(126): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\users\fedor\source\repos\дзwinapi\дзwinapi\дзwinapi.cpp(38): warning C4172: возвращение адреса локальной или временной переменной : massiv
+  ДЗWinApi.vcxproj -> D:\Users\Fedor\source\repos\ДЗWinApi\Debug\ДЗWinApi.exe
